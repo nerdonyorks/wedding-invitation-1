@@ -412,3 +412,9 @@ body > * {
   position: relative;
   z-index: 1;
 }
+footer i[data-lucide] {
+  width: 26px;
+  height: 26px;
+  stroke-width: 1.8;
+}
+
